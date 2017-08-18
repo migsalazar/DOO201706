@@ -12,9 +12,11 @@ Ensayo sobre aplicaciones de software.
 
 - Deben considerarse las vulnerabilidades de seguridad de las aplicaciones web. ¿Qué vulnerabilidades puede tener la web? ¿Hay modo de remediarlo? ¿Que implica para nosotros lo usuarios? ¿Cómo podemos protegernos?
 
-- Guarda tu documento en formato .pdf y "adjúntalo" en tu cuenta de github.
+- Guarda tu documento en formato `.pdf` y súbelo a tu repositorio de github (usa carpetas).
 
-- No olvides incluir los datos generales en la portada de tu ensayo y sobre todo, las referencias/bibliografía que utilizaste para construir tu ensayo.
+- No olvides incluir los datos generales en la portada de tu ensayo.
+
+- Incluye las referencias/bibliografía que utilizaste para construir tu ensayo.
 
 ## Sugerencias
 
@@ -22,10 +24,10 @@ Ensayo sobre aplicaciones de software.
 
 - Hazlo con seriedad y construye un fundamento que sintetice el tema.
 
-- No pienses ideas/verdades absolutas, piensa en obtener un resultado preliminar.
+- No pienses en ideas/verdades absolutas, piensa en obtener un resultado preliminar.
 
-- Introduce, desarrolla y concluye.  Haz el mayor esfuerzo por argumentar y sustentar tus ideas u opiniones.
+- Introduce, desarrolla y concluye.  Haz el mayor esfuerzo por argumentar y sustentar tus ideas/opiniones.
 
-- Busca opiniones sobre tu trabajo, pide retroalimentación y comparte tus dudas con otros compañeros y maestros. Ninguna duda es tonta; tener pena no es malo, pero darle importancia solo estorba.
+- Pide retroalimentación sobre tu trabajo y comparte tus dudas con otros compañeros y maestros. Ninguna duda es tonta; tener pena no es malo, pero darle importancia solo estorba.
 
 - No copies, es tu trabajo. Respeta a los demás pero sobre todo, a ti mismo.
