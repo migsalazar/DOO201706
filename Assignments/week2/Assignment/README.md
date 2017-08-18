@@ -1,4 +1,4 @@
-# Asignación de la Semana 1
+# Asignación de la Semana 2
 
 Construir una página simple basada en HTML 5 y CSS 3.
 
