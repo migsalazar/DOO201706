@@ -1,0 +1,20 @@
+url: http://migsalazar.com/DOO201706
+baseurl: ""
+site_title: Diseño Orientado a Objetos
+
+exclude:
+  - _site
+  - _drafts/
+
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouges
+
+collections:
+    content:
+        output: true
+        permalink: /:path/
+        title: Content
