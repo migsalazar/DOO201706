@@ -1,8 +1,8 @@
-# Asignación de la semana 7
+# Asignación 4
 
-## Agregar capacidades al login
+## Autenticación de usuario
 
-**Objetivo**: Al finalizar la actividad deberás ser capaz de comprender el manejo de sesiones y cookies.
+**Objetivo**: Al finalizar la actividad deberás ser capaz de comprender el manejo de json, sesiones y cookies.
 
 ## Preparación
 La descripción de esta asignación parte del supuesto que ya se cuenta con la versión de NetBeans (EE) y que incluye un contenedor Web GlassFish o Apache Tomcat atendiendo un puerto de escucha 8080.
@@ -15,8 +15,9 @@ Crear una mini-aplicación web que funcione con el patrón MVC:
 - Crear tres páginas JSP: `login.jsp`, `register.jsp` y `profile.jsp`
 - Crear cuatro servlets que funcionarán como controladores: `LoginController`, `LogoutController`, `ProfileController` y `RegisterController`
 - Crear una clase de Java que funcionará como modelo
-- Crear dos clases de servicio para orquestar llamadas a BD y validaciones
+- Crear dos clases de servicio para orquestar llamadas a base de datos y validaciones
 - Crear archivo en formato `JSON` que funcionará como base de datos.
+- Almacenar atributos de sesión y cookies.
 
 ## Actividad 1: Preparación de proyecto
 
@@ -27,7 +28,7 @@ Crear una mini-aplicación web que funcione con el patrón MVC:
 
 Para el trabajo de datos utilizaremos la libreria [json-simple](https://github.com/fangyidong/json-simple) el cual nos otorgará la capacidad de leer y almacenar objetos en formato JSON.
 
-1.- Descargar la librearía [json-simple]() (Ubicada en este repositorio).
+1.- Descargar la librearía [json-simple](https://github.com/migsalazar/DOO201706/blob/master/Assignments/assignment4/resources/json-simple-1.1.1.jar) (Ubicada en este repositorio).
 2.- Agregar la dependencia dentro de `Libraries`:
 
 <img src="https://github.com/migsalazar/DOO201709/blob/master/docs/assets/week7-img/01.png" width="300" />
@@ -237,7 +238,7 @@ response.sendRedirect("login.jsp");
 
 <img src="https://github.com/migsalazar/DOO201709/blob/master/docs/assets/week7-img/12.png" width="300" />
 
-2.- Puedes incluir/Crear la página `error.jsp` funcionando igual que las asignaciones anteriores. O de otro modo, no utilizar `error.jsp` pero validar el usuario en la misma página de `login.jsp` y mostrar un mensaje en caso de ser un usuario inválido, como se muestra en la siguiente imagen:
+2.- Puedes incluir/Crear la página `error.jsp` funcionando igual que en tus prácticas de laboratorio. O de otro modo, no utilizar `error.jsp` pero validar el usuario en la misma página de `login.jsp` y mostrar un mensaje en caso de ser un usuario inválido, como se muestra en la siguiente imagen:
 
 <img src="https://github.com/migsalazar/DOO201709/blob/master/docs/assets/week7-img/13.png" width="300" />
 
