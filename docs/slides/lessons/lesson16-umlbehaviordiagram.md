@@ -5,6 +5,6 @@
 
 ## Diagramas de Comportamiento
 
-Los diagramas de estructura muestran la estructura estática del sistema y sus partes en diferentes niveles de abstracción e implementación y cómo están relacionados entre sí.
+Los diagramas de comportamiento se emplean para visualizar, especificar, construir y documentar los aspectos dinámicos de un sistema.
 
-Los elementos de un diagrama de estructura representan los conceptos significativos de un sistema, y pueden incluir conceptos abstractos, del mundo real y de implementación.
+Los aspectos dinámicos de un sistema de software involucran cosas tales como el flujo de mensajes a lo largo del tiempo y el movimiento físico de componentes en una red.
