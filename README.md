@@ -1,6 +1,6 @@
 # DOO201706
 
-Diseño Orientado a Objetos - Agosto / Diciembre - 2017
+Diseño Orientado a Objetos
 
 ## Introducción
 
